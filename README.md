@@ -8,7 +8,7 @@ Simple burger menu with animation using jQuery
 
 <h2 align="center">
   <video controls style="max-width:80vw;max-height:80vh"
-  poster='https://raw.githubusercontent.com/peterbodarev/burger-menu/master/examples/screenshot.webp'  src='https://raw.githubusercontent.com/peterbodarev/burger-menu/master/examples/video.webm'>
+  poster='examples/screenshot.png'  src='examples/video.mp4'>
 	</video>
 </h2>
 
