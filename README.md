@@ -6,9 +6,7 @@ Simple burger menu with animation using jQuery
 
 ## Examples 👁️
 
-<h2 align="center">
-	<img src="examples/screenshot.png" alt="example"/>
-</h2>
+![screenshot](https://user-images.githubusercontent.com/91592743/135995624-3260c13e-c93d-4809-81a9-df6a528dd028.png)
 
 https://user-images.githubusercontent.com/91592743/135970745-4fa054e6-52d3-484c-9058-9d6568bf85ed.mp4
 
