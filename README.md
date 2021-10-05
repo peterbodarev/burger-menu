@@ -10,6 +10,8 @@ Simple burger menu with animation using jQuery
   <video controls style="max-width:80vw;max-height:80vh"
   poster='./examples/screenshot.png'  src='./examples/video.mp4'>
 	</video>
+	<h2 align="center">
+<img src="examples/screenshot.png" alt="example"/>
 </h2>
 
 ---
